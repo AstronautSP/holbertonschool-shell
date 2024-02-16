@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1,6 -d ':' /etc/passwed | sort 
+cut -d 1,6 -f ':' /etc/passwed | sort 
